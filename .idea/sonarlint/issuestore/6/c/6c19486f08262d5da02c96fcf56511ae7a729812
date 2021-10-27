@@ -1,0 +1,7 @@
+
+W
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ðÎ¸Ù
+U	java:S899	";Do something with the "boolean" value returned by "delete".(”ñ¬õýÿÿÿÿ
+i
+java:S4042	"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(”ñ¬õýÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ù—Ïíúÿÿÿÿ

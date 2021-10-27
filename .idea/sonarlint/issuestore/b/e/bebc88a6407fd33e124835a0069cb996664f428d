@@ -1,0 +1,22 @@
+
+\
+java:S1075
+"ARefactor your code to get this URI from a customizable parameter.(ÞíÁ¿ýÿÿÿÿ
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(Çì£´8–í®½Ë/
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(‡ÄÆ½üÿÿÿÿ8”œ®½Ë/
+I
+java:S1481"'Remove this unused "f2" local variable.(‡ÄÆ½üÿÿÿÿ8•œ®½Ë/
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ßäˆÌøÿÿÿÿ8–œ®½Ë/
+I
+java:S1481"'Remove this unused "f3" local variable.(ßäˆÌøÿÿÿÿ8–œ®½Ë/
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(Š‹ãÃ8–œ®½Ë/
+D
+java:S1481"'Remove this unused "f4" local variable.(Š‹ãÃ8—œ®½Ë/
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(›ì¯ì8—œ®½Ë/
+N	java:S106""9Replace this use of System.out or System.err by a logger.(ëê†•
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ù—Ïíúÿÿÿÿ
