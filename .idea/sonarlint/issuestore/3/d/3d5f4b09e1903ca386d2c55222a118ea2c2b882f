@@ -1,7 +1,0 @@
-
-O
-java:S6126
-"2Replace this String concatenation with Text block.(†Ý¹ü8Õž¶½Ë/
-^
-java:S1075"ARefactor your code to get this URI from a customizable parameter.(ðÎ¸Ù8í·±½Ë/
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ù—Ïíúÿÿÿÿ

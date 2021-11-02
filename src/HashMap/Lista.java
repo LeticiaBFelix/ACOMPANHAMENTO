@@ -18,7 +18,12 @@ public class Lista {
 
         System.out.println("Digite a inicial do nome desejado");
         inicial = sc.nextLine();
-        System.out.println(lista.get(inicial));
+        if(lista.containsKey(inicial)){
+            System.out.println(lista.get(inicial));
+        }else{
+            System.out.println("NOT FOUND");
+        }
+
 
         System.out.println("Tamanho: " + lista.size());
     }
